@@ -10,8 +10,6 @@
 
 # production
 /build
-/test/node_modules
-/react-tutorial/node_modules
 
 # misc
 .DS_Store
