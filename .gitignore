@@ -11,6 +11,7 @@
 # production
 /build
 /test/node_modules
+/router-tutorial/node_modules
 
 # misc
 .DS_Store
