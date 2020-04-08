@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad213b6-369f-45bc-8eb6-491394dcf5e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/router-tutorial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/CreateUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/ErrorBoundary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/HistorySample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/InputSample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/Profiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/UseReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/UserList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-tutorial/src/hooks/useInputs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/router-tutorial/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router-tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/router-tutorial/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router-tutorial/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/router-tutorial/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/router-tutorial/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -114,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/router-tutorial/src/InputSample.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+            <state relative-caret-position="277">
+              <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -268,24 +251,6 @@
               <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice-react" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-react" type="462c0819:PsiDirectoryNode" />
-              <item name="router-tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-react" type="462c0819:PsiDirectoryNode" />
-              <item name="router-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-react" type="462c0819:PsiDirectoryNode" />
-              <item name="router-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -332,18 +297,17 @@
       <workItem from="1573712397910" duration="477000" />
       <workItem from="1573817577321" duration="890000" />
       <workItem from="1574672458419" duration="529000" />
-      <workItem from="1586234321754" duration="15020000" />
+      <workItem from="1586234321754" duration="15242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32763000" />
+    <option name="totallyTimeSpent" value="32985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="962" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13803495" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13803495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -357,7 +321,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321839" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321839" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -586,8 +550,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/router-tutorial/src/InputSample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        <state relative-caret-position="277">
+          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
