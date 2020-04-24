@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad213b6-369f-45bc-8eb6-491394dcf5e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react-slick/src/SimpleSlider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-tutorial/src/ErrorBoundary.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-tutorial/src/ErrorBoundary.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,173 +18,76 @@
     <session id="-529214122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="7" />
-          <entry key="gitignore" value="3" />
-          <entry key="html" value="3" />
-          <entry key="js" value="103" />
-          <entry key="json" value="2" />
+          <entry key="gitignore" value="4" />
+          <entry key="html" value="4" />
+          <entry key="js" value="118" />
+          <entry key="json" value="4" />
           <entry key="jsx" value="3" />
           <entry key="png" value="2" />
           <entry key="svg" value="3" />
-          <entry key="ts" value="3" />
+          <entry key="ts" value="5" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="7" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="Image" value="2" />
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="4" />
           <entry key="JSX Harmony" value="3" />
-          <entry key="JavaScript" value="103" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JavaScript" value="118" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="SVG" value="3" />
-          <entry key="TypeScript" value="3" />
+          <entry key="TypeScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="ESLintLanguageService" value="2" />
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="76" />
           <entry key="gitignore" value="54" />
-          <entry key="html" value="177" />
-          <entry key="js" value="17993" />
-          <entry key="json" value="1" />
+          <entry key="html" value="179" />
+          <entry key="js" value="18377" />
+          <entry key="json" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="76" />
-          <entry key="HTML" value="177" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="17993" />
+          <entry key="HTML" value="179" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="18377" />
           <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-calendar/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/dist/Calendar.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.es.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="664" column="51" lean-forward="true" selection-start-line="664" selection-start-column="51" selection-end-line="664" selection-end-column="51" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/@types/react/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="533" column="6" selection-start-line="533" selection-start-column="6" selection-end-line="533" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/src/content.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-calendar/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -195,6 +98,8 @@
       <find>goToHome</find>
       <find>handleAsyncActionsById</find>
       <find>styles</find>
+      <find>width</find>
+      <find>popupContent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,21 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Content.js" />
-        <option value="$PROJECT_DIR$/src/components/Subject.js" />
-        <option value="$PROJECT_DIR$/src/components/TOC.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/User.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/Counter.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/index.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/App.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/hooks/useInputs.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/UserList.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/UseReducer.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/CreateUser.js" />
-        <option value="$PROJECT_DIR$/router-tutorial/src/InputSample.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/redux-tutorial/src/exercise.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/modules/counter.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/modules/todos.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/modules/index.js" />
@@ -254,6 +144,21 @@
         <option value="$PROJECT_DIR$/test-calendar/src/App.css" />
         <option value="$PROJECT_DIR$/test-calendar/src/index.css" />
         <option value="$PROJECT_DIR$/test-calendar/src/App.js" />
+        <option value="$PROJECT_DIR$/subrouter-practice/src/TestContainer.js" />
+        <option value="$PROJECT_DIR$/subrouter-practice/src/SubTest.js" />
+        <option value="$PROJECT_DIR$/subrouter-practice/src/App.js" />
+        <option value="$PROJECT_DIR$/react-slick/src/SimpleSlider.js" />
+        <option value="$PROJECT_DIR$/react-slick/public/index.html" />
+        <option value="$PROJECT_DIR$/react-slick/src/App.js" />
+        <option value="$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/package.json" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/pages/Auth.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/pages/Home.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/pages/index.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/App.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/Root.js" />
+        <option value="$PROJECT_DIR$/redux-autologin/.jsconfig.json" />
+        <option value="$PROJECT_DIR$/redux-autologin/src/index.js" />
       </list>
     </option>
   </component>
@@ -264,23 +169,30 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react-slick/node_modules" />
     <handled-path value="$PROJECT_DIR$/react-tutorial/node_modules" />
     <handled-path value="$PROJECT_DIR$/redux-middleware-tutorial/node_modules" />
     <handled-path value="$PROJECT_DIR$/redux-tutorial/node_modules" />
+    <handled-path value="$PROJECT_DIR$/subrouter-practice/node_modules" />
     <handled-path value="$PROJECT_DIR$/test-calendar/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/react-slick/package.json" />
       <path value="$PROJECT_DIR$/react-tutorial/package.json" />
       <path value="$PROJECT_DIR$/redux-middleware-tutorial/package.json" />
       <path value="$PROJECT_DIR$/redux-tutorial/package.json" />
+      <path value="$PROJECT_DIR$/subrouter-practice/package.json" />
       <path value="$PROJECT_DIR$/test-calendar/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="967" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -358,22 +270,26 @@
       <workItem from="1586234321754" duration="30410000" />
       <workItem from="1586344357363" duration="5059000" />
       <workItem from="1586770800348" duration="2187000" />
-      <workItem from="1586833404334" duration="6478000" />
+      <workItem from="1586833404334" duration="14204000" />
+      <workItem from="1587108901829" duration="2986000" />
+      <workItem from="1587346134906" duration="3407000" />
+      <workItem from="1587361752872" duration="306000" />
+      <workItem from="1587367987806" duration="253000" />
+      <workItem from="1587370863532" duration="1268000" />
+      <workItem from="1587546576765" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61877000" />
+    <option name="totallyTimeSpent" value="79031000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="967" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09110058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -384,7 +300,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3462857" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31606218" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,157 +313,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test-calendar/src/App.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/components/PostList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/containers/PostListContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/containers/PostContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/modules/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/App.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/pages/PostListPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/pages/PostPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/api/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/lib/asyncUtils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/modules/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-tutorial/src/modules/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-tutorial/src/modules/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-tutorial/src/modules/todos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/modules/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-middleware-tutorial/src/components/Counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux-tutorial/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/redux-tutorial/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,9 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,9 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,9 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,9 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,13 +385,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/dist/esm/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -644,39 +408,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/dateFormatter.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-412">
-          <folding>
-            <element signature="e#0#118#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-412" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/dates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <folding>
-            <element signature="e#0#612#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/dates.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-496">
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-496" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/propTypes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/utils.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -685,53 +431,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/utils.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460">
-          <folding>
-            <element signature="e#0#135#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-460" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/YearView/Month.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/YearView/Month.spec.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3007">
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-3007" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/YearView/Months.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/src/content.js.css" />
+    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/dist/Calendar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.es.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="533" column="6" selection-start-line="533" selection-start-column="6" selection-end-line="533" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/src/TestContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/src/SubTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-slick/src/SimpleSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-slick/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#handleSubmit#0;n#!!block;n#App#0" />
+            <element signature="n#!!block;n#callback#0;n#!!block;n#App#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/src/content.js.css">
+    <entry file="file://$PROJECT_DIR$/react-slick/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="30" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4215">
+          <caret line="294" column="4" selection-start-line="294" selection-start-column="4" selection-end-line="294" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subrouter-practice/node_modules/react-router/esm/react-router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5970">
+          <caret line="409" column="4" selection-start-line="409" selection-start-column="4" selection-end-line="409" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-calendar/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -749,63 +577,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.es.js">
+    <entry file="file://$PROJECT_DIR$/redux-autologin/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="347">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/pages/Auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/pages/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/@types/react/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/Root.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="533" column="6" selection-start-line="533" selection-start-column="6" selection-end-line="533" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/redux-autologin/.jsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-autologin/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/reactjs-popup/reactjs-popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="664" column="51" lean-forward="true" selection-start-line="664" selection-start-column="51" selection-end-line="664" selection-end-column="51" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="282" column="17" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/dist/Calendar.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-calendar/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="13" selection-end-line="49" />
         </state>
       </provider>
     </entry>
