@@ -17,13 +17,13 @@
     <session id="-529214122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,7 +31,7 @@
           <entry key="css" value="7" />
           <entry key="gitignore" value="4" />
           <entry key="html" value="4" />
-          <entry key="js" value="124" />
+          <entry key="js" value="125" />
           <entry key="json" value="4" />
           <entry key="jsx" value="3" />
           <entry key="png" value="2" />
@@ -47,7 +47,7 @@
           <entry key="Image" value="2" />
           <entry key="JSON" value="4" />
           <entry key="JSX Harmony" value="3" />
-          <entry key="JavaScript" value="124" />
+          <entry key="JavaScript" value="125" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="SVG" value="3" />
           <entry key="TypeScript" value="10" />
@@ -64,7 +64,7 @@
           <entry key="css" value="76" />
           <entry key="gitignore" value="54" />
           <entry key="html" value="179" />
-          <entry key="js" value="20855" />
+          <entry key="js" value="20960" />
           <entry key="json" value="2" />
           <entry key="ts" value="1" />
         </counts>
@@ -74,7 +74,7 @@
           <entry key="CSS" value="76" />
           <entry key="HTML" value="179" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="20855" />
+          <entry key="JavaScript" value="20960" />
           <entry key="PLAIN_TEXT" value="54" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -84,19 +84,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-slider/src/App.js">
+        <entry file="file://$PROJECT_DIR$/react-player/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="15">
+              <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-player/src/App.js">
+        <entry file="file://$PROJECT_DIR$/react-styled-components/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -107,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-player/node_modules/react-player/index.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
+            <state relative-caret-position="1605">
               <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
             </state>
           </provider>
@@ -163,7 +166,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-slider/src/components.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="2895">
               <caret line="194" column="35" selection-start-line="194" selection-start-column="35" selection-end-line="194" selection-end-column="35" />
               <folding>
                 <element signature="e#15#55#0" expanded="true" />
@@ -215,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/redux-tutorial/src/Counter.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/components/Counter.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/index.js" />
         <option value="$PROJECT_DIR$/redux-tutorial/src/containers/TodosContainer.js" />
@@ -266,6 +268,7 @@
         <option value="$PROJECT_DIR$/react-slider/src/App.js" />
         <option value="$PROJECT_DIR$/react-slider/src/components.js" />
         <option value="$PROJECT_DIR$/react-player/src/App.js" />
+        <option value="$PROJECT_DIR$/react-styled-components/src/App.js" />
       </list>
     </option>
   </component>
@@ -280,6 +283,7 @@
     <handled-path value="$PROJECT_DIR$/react-player/node_modules" />
     <handled-path value="$PROJECT_DIR$/react-slick/node_modules" />
     <handled-path value="$PROJECT_DIR$/react-slider/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react-styled-components/node_modules" />
     <handled-path value="$PROJECT_DIR$/react-tutorial/node_modules" />
     <handled-path value="$PROJECT_DIR$/redux-middleware-tutorial/node_modules" />
     <handled-path value="$PROJECT_DIR$/redux-tutorial/node_modules" />
@@ -292,6 +296,7 @@
       <path value="$PROJECT_DIR$/react-player/package.json" />
       <path value="$PROJECT_DIR$/react-slick/package.json" />
       <path value="$PROJECT_DIR$/react-slider/package.json" />
+      <path value="$PROJECT_DIR$/react-styled-components/package.json" />
       <path value="$PROJECT_DIR$/react-tutorial/package.json" />
       <path value="$PROJECT_DIR$/redux-middleware-tutorial/package.json" />
       <path value="$PROJECT_DIR$/redux-tutorial/package.json" />
@@ -299,11 +304,10 @@
       <path value="$PROJECT_DIR$/test-calendar/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="991" />
+    <option name="width" value="1680" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -322,12 +326,12 @@
             <path>
               <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice-react" type="462c0819:PsiDirectoryNode" />
-              <item name="react-player" type="462c0819:PsiDirectoryNode" />
+              <item name="react-styled-components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice-react" type="462c0819:PsiDirectoryNode" />
-              <item name="react-player" type="462c0819:PsiDirectoryNode" />
+              <item name="react-styled-components" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -404,16 +408,17 @@
       <workItem from="1588048905101" duration="13353000" />
       <workItem from="1588253656036" duration="320000" />
       <workItem from="1588731350620" duration="2290000" />
+      <workItem from="1588774352997" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95195000" />
+    <option name="totallyTimeSpent" value="96485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1920" height="991" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="961" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112164296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11211573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -427,7 +432,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32035595" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32220945" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,13 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/dist/esm/Calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-calendar/node_modules/react-calendar/src/shared/dateFormatter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108" />
@@ -646,6 +644,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react-slider/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-player/node_modules/react-player/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react-slider/node_modules/react-compound-slider/Tracks/Tracks.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -683,6 +695,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react-slider/src/components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="194" column="35" selection-start-line="194" selection-start-column="35" selection-end-line="194" selection-end-column="35" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react-slider/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -692,34 +714,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-slider/src/components.js">
+    <entry file="file://$PROJECT_DIR$/react-player/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="194" column="35" selection-start-line="194" selection-start-column="35" selection-end-line="194" selection-end-column="35" />
+        <state relative-caret-position="15">
+          <caret line="1" column="39" lean-forward="true" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
           <folding>
-            <element signature="e#15#55#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-slider/src/App.js">
+    <entry file="file://$PROJECT_DIR$/react-styled-components/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-player/node_modules/react-player/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-player/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
